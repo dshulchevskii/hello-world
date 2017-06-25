@@ -1,3 +1,4 @@
 # hello-world
-Get some experience
-why you are so serious?
+Get some experience.
+
+Why you are so serious?
